@@ -142,7 +142,7 @@ button:hover{
 /* Media Queries */
 @media(max-width:500px){
     header nav{
-        width:65%;
+        width:55%;
     }
     .title-container div{
         width:100%;
